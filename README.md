@@ -1,4 +1,4 @@
-##Project Newscity - Projeto notícias cidade.##
+## Project Newscity - Projeto notícias cidade.
 
 **Por.** Projeto realizado durante o curso de Desenvolvimento web 2022 lecionado por Jamilton Damasceno.
 O projeto teve como intuito desenvolver por meio de Html5 e css3 um site de notícias para uma cidade fictícia.
